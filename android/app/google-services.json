@@ -1,13 +1,13 @@
 {
   "project_info": {
-    "project_number": "827546226598",
-    "project_id": "testing-cli-eb406",
-    "storage_bucket": "testing-cli-eb406.appspot.com"
+    "project_number": "270665611249",
+    "project_id": "fir-initialization-90ca7",
+    "storage_bucket": "fir-initialization-90ca7.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:827546226598:android:84649c5a6a3409d1ec0967",
+        "mobilesdk_app_id": "1:270665611249:android:67e5a91e21b1ca83093650",
         "android_client_info": {
           "package_name": "com.kapoor.fbinit"
         }
@@ -15,7 +15,7 @@
       "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyBpfJ3BIcp9B2RKbTwb_ltxyUZF9liQ_8M"
+          "current_key": "AIzaSyC25t8E2O_ax-AF127uRLLv2KVHX7mogho"
         }
       ],
       "services": {
